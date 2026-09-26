@@ -1,0 +1,1 @@
+In this project we will be fixing erros in a code provided to us
